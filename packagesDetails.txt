@@ -1,0 +1,3 @@
+- packageData: byte[]      
+- hashAlgorithm: String    
+- digitalSignature: byte[] 
